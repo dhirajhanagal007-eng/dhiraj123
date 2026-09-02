@@ -4,3 +4,4 @@ city = input("Enter your city")
 
 print("User first name and last name ", firstname + " " + lastname)
 print("User city", city)
+print("user city", city)
